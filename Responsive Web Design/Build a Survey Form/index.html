@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>User Form</title>
+</head>
+<body>
+
+<div class="container">
+    <h1 id="title">User Form</h1>
+    <p id="description">Please fill out the form below:</p>
+
+    <form id="survey-form">
+        <label for="name" id="name-label">Name:</label>
+        <input type="text" id="name" placeholder="Enter your name" required>
+
+        <label for="email" id="email-label">Email:</label>
+        <input type="email" id="email" placeholder="Enter your email" required>
+
+        <label for="number" id="number-label">Number:</label>
+        <input type="number" id="number" placeholder="Enter a number" min="1" max="100" required>
+
+        <label for="dropdown">Select an option:</label>
+        <select id="dropdown">
+            <option value="option1">Option 1</option>
+            <option value="option2">Option 2</option>
+        </select>
+
+        <label>Choose an option:</label>
+        <input type="radio" name="radio-group" value="option1"> Option 1
+        <input type="radio" name="radio-group" value="option2"> Option 2
+
+        <label>Choose multiple options:</label>
+        <input type="checkbox" value="checkbox1"> Checkbox 1
+        <input type="checkbox" value="checkbox2"> Checkbox 2
+
+        <label for="comments">Additional comments:</label>
+        <textarea id="comments" placeholder="Enter your comments"></textarea>
+
+        <button type="submit" id="submit">Submit</button>
+    </form>
+</div>
+
+</body>
+</html>
