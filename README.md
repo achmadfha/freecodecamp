@@ -6,23 +6,23 @@ This repository contains the source code for the FreeCodeCamp Responsive Web Des
 
 - **Main Folder: freecodecamp**
     - **Responsive Web Design**
-        - [Build a Personal Portfolio Webpage](./freecodecamp/Responsive%20Web%20Design/Build%20a%20Personal%20Portfolio%20Webpage)
+        - [Build a Personal Portfolio Webpage](https://github.com/whoiswhore/freecodecamp/tree/main/Responsive%20Web%20Design/Build%20a%20Personal%20Portfolio%20Webpage)
             - `index.html`
             - `style.css`
 
-        - [Build a Product Landing Page](./freecodecamp/Responsive%20Web%20Design/Build%20a%20Product%20Landing%20Page)
+        - [Build a Product Landing Page](https://github.com/whoiswhore/freecodecamp/tree/main/Responsive%20Web%20Design/Build%20a%20Product%20Landing%20Page)
             - `index.html`
             - `style.css`
 
-        - [Build a Survey Form](./freecodecamp/Responsive%20Web%20Design/Build%20a%20Survey%20Form)
+        - [Build a Survey Form](https://github.com/whoiswhore/freecodecamp/tree/main/Responsive%20Web%20Design/Build%20a%20Survey%20Form)
             - `index.html`
             - `style.css`
 
-        - [Build a Technical Documentation Page](./freecodecamp/Responsive%20Web%20Design/Build%20a%20Technical%20Documentation%20Page)
+        - [Build a Technical Documentation Page](https://github.com/whoiswhore/freecodecamp/tree/main/Responsive%20Web%20Design/Build%20a%20Technical%20Documentation%20Page)
             - `index.html`
             - `style.css`
 
-        - [Build a Tribute Page](./freecodecamp/Responsive%20Web%20Design/Build%20a%20Tribute%20Page)
+        - [Build a Tribute Page](https://github.com/whoiswhore/freecodecamp/tree/main/Responsive%20Web%20Design/Build%20a%20Tribute%20Page)
             - `index.html`
             - `style.css`
 
